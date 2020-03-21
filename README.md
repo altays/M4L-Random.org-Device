@@ -25,3 +25,7 @@ THEN I get a new midi clip generated in the same track I am in (unable to do)
 THEN I get a message with the status  (not yet)
 THEN I get a message with the amount of API calls I have left available (yes)
 ```
+
+## Acknowledgements
+
+Nigel McBride (http://www.nmcbride.com/iterative-processes) for the code for breaking list down into separate list items
